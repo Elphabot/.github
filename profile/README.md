@@ -3,7 +3,7 @@
 <h1>Elpha! The open-source discord bot</h1>
 <br />
   
-![Elpha](https://user-images.githubusercontent.com/70943732/213678287-d3c9a9c9-4fa5-44e6-99d7-0976d91cdad6.png)
+[![Elpha](https://user-images.githubusercontent.com/70943732/213678287-d3c9a9c9-4fa5-44e6-99d7-0976d91cdad6.png)](https://discord.com/oauth2/authorize?client_id=916613852362330133&permissions=8&scope=bot%20applications.commands)
 
 ***
 "Laugh Your Way to Efficiency - Add Elpha, the Open-Source Discord Bot Built with discord.js and Slash Commands, to Your Server Today!"
