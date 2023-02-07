@@ -66,7 +66,7 @@ Elpha uses Discord slash commands however the custom command's prefix will be ad
 
 # 📝 License
 
-Copyright © 2021 [Pranshu Patel](https://github.com/pranshu05)
+Copyright © 2023 [Pranshu Patel](https://github.com/pranshu05)
 
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
